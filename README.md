@@ -6,16 +6,16 @@ An interactive and visually rich web-based **Elevator Simulator** that mimics th
 
 ## 📋 Table of Contents
 
-- [Introduction](##introduction)
-- [Features](##features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Dependencies](#dependencies)
-- [Examples](#examples)
-- [Troubleshooting](#troubleshooting)
-- [Contributors](#contributors)
-- [License](#license)
+- [Introduction](#📌-introduction)
+- [Features](#✨-features)
+- [Installation](#🛠-installation)
+- [Usage](#▶️-usage)
+- [Configuration](#⚙️-configuration)
+- [Dependencies](#📦-dependencies)
+- [Examples](#🧪-examples)
+- [Troubleshooting](#🛠️-troubleshooting)
+- [Contributors](#👥-contributors)
+- [License](#🪪-license)
 
 ---
 
