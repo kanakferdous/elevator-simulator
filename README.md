@@ -107,7 +107,7 @@ This project is built entirely with:
 
 ## 👥 Contributors
 
-Made by [Your Name]. Contributions welcome!
+Made by Mohammad Kanak Ferdous. Contributions welcome!
 
 ---
 
