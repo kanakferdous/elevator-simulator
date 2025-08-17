@@ -42,7 +42,7 @@ This project simulates a functioning elevator within a building. Users can inter
 1. Clone the repository or download the source files.
 
 ```bash
-git clone https://your-repo-url.git
+git clone https://github.com/kanakferdous/elevator-simulator.git
 cd elevator-simulator
 ```
 
